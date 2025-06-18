@@ -1,6 +1,6 @@
-*Vertices     198
-*Arcs
-*Edges
+%Vertices     198
+%Arcs
+%Edges
        1       8        1
        1      24        1
        1      35        1
